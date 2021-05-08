@@ -21,4 +21,5 @@ public class LoginPage extends BasePage {
 	public void clicarBotaoSignIn() {
 		clicarBotao("SubmitLogin");
 	}
+	
 }
